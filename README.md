@@ -1,2 +1,2 @@
 # Django
-persinal study for Django
+personal study for Django
